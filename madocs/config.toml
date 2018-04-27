@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Mecha Assault"
+theme = "kraiklyn"
+
+[params]
+externalTitle = "DP9 Forum"
+
+[[menu.shortcuts]]
+name = "Javascript API"
+url = "https://docs.surfly.com/javascript.html"
+weight = 20
