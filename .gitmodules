@@ -1,3 +1,6 @@
 [submodule "madocs/themes/kraiklyn"]
 	path = madocs/themes/kraiklyn
 	url = https://github.com/jsnjack/kraiklyn.git
+[submodule "madocs/themes/hugo-material-docs"]
+	path = madocs/themes/hugo-material-docs
+	url = https://github.com/digitalcraftsman/hugo-material-docs.git

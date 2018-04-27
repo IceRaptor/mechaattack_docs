@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Mecha Assault"
-theme = "kraiklyn"
+title = "CAMS"
+theme = "hugo-material-docs"
 
 [params]
 externalTitle = "DP9 Forum"
