@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mecha Assault</title>
+    <title>CAMS</title>
     <link>http://example.org/</link>
-    <description>Recent content on Mecha Assault</description>
+    <description>Recent content on CAMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 27 Apr 2018 15:25:25 -0400</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CAMS Homepage</title>
+      <link>http://example.org/</link>
+      <pubDate>Fri, 27 Apr 2018 15:25:25 -0400</pubDate>
+      
+      <guid>http://example.org/</guid>
+      <description>Humanoid robots bearing assault cannons dash from cover to cover, while explosions rock the ground underneath their feet. Massive tanks command dominating positions and pour unrelenting fire into any victim hapless enough to wander into their sights. Deep in forests and the urban jungle infantry in exoskeletons take up positions waiting for the unwary or hapless. Heavily armed and armored helicopters and more exotic attack craft circle the battlefield, seeking stragglers to pick off one by one.</description>
+    </item>
     
   </channel>
 </rss>
