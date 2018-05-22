@@ -1,11 +1,12 @@
----
-title: "North"
-date: 2018-04-27T17:04:28-04:00
-menu:
-    main:
-        parent: "Forces of Battle"
-        weight: 20
----
++++
+title = "North"
+description = ""
+weight = 1
++++
+
 
 North forces
 
+{{</* warning title="Don't try this at home" */>}}
+Nothing to see here, move along.
+{{</* /warning */>}}

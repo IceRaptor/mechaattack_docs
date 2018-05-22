@@ -1,55 +1,67 @@
-baseURL = "http://example.org/"
+baseURL = "/"
+
 languageCode = "en-us"
-title = "CAMS"
-theme = "hugo-material-docs"
-metadataformat = "yaml"
-canonifyurls = true
-# Enable Google Analytics by entering your tracking id
-googleAnalytics = ""
+DefaultContentLanguage = "en"
+title = "DocDock Documentation"
+theme = "docdock"
+themesdir = "themes/"
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir= false
+enableMissingTranslationPlaceholders = false
+
+
+# [Languages]
+# [Languages.en]
+# title = "Documentation for Hugo docDock"
+# weight = 1
+# languageName = "English"
+# 
+# [Languages.fr]
+# title = "Documentation du thème docDock"
+# weight = 2
+# languageName = "Français"
+
+
+
 
 [params]
-	# General information
-	author = "Gerrit Kitts"
-	description = "Combined Arms Mecha Wargame."
-	copyright = "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
+editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
+showVisitedLinks = true # default is false
+themeStyle = "flex" # "original" or "flex" # default "flex"
+themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
+ordersectionsby = "weight" # ordersectionsby = "title"
+disableHomeIcon = false # default is false
+disableSearch = false # default is false
+disableNavChevron = false # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
+enableGitInfo = false
 
-	# Custom assets
-	custom_css = []
-	custom_js  = []
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
 
-	# Syntax highlighting theme
-	highlight_css  = ""
-
-	[params.palette]
-    	primary = "red"
-    	accent  = "teal"
-
-    [params.font]
-    	text = "Ubuntu"
-    	code = "Ubuntu Mono"
-
-
-[social]
-	twitter = ""
-	email   = "FIXME@email.com"
-
-
-[[menu.main]]
-	name   = "Quickstart"
-	url    = "quickstart/"
-	weight = 20
-
-[[menu.main]]
-	name   = "Rules"
-	url    = "rules/"
-	weight = 20
-
-[[menu.main]]
-	name   = "Forces of Battle"
-	url    = "forces/"
-	weight = 40
-
-[[menu.main]]
-	name   = "License"
-	url    = "license/"
-	weight = 70
+# [[menu.shortcuts]]
+# pre = "<h3>More</h3>"
+# name = "<i class='fa fa-github'></i> <label>Github repo</label>"
+# identifier = "ds"
+# url = "https://github.com/vjeantet/hugo-theme-docdock"
+# weight = 10
+#
+# [[menu.shortcuts]]
+# name = "<i class='fa fa-cloud-download'></i> <label>Download</label>"
+# url = "https://github.com/vjeantet/hugo-theme-docdock/archive/master.zip"
+# weight = 11
+#
+# [[menu.shortcuts]]
+# name = "<i class='fa fa-bookmark'></i> <label>Hugo Documentation</label>"
+# identifier = "hugodoc"
+# url = "https://gohugo.io/"
+# weight = 20
+#
+# [[menu.shortcuts]]
+# name = "<i class='fa fa-bullhorn'></i> <label>Credits</label>"
+# url = "/credits"
+# weight = 30
