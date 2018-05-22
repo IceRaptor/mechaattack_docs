@@ -14,4 +14,4 @@ Many actions require __opposed tests__, where both the active player and their t
 Some actions do not have a target player, only have an active player. For these _unopposed tests_ the attacker compares their successes against a __target number__. 
 
 ## Bonus Successes
-Tactical positioning, advanced weaponry and other 
+Tactical positioning or advanced equipment can ensure a successful action has an outsized effect. When an effect grants __bonus successes__, if the player rolls at least one success on their dice, adds the successes to the value they rol
