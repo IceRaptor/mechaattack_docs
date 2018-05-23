@@ -16,7 +16,9 @@ Many actions require __opposed tests__, where both the active player and their t
 Some actions do not have a target player, only have an active player. For these _unopposed tests_ the attacker compares their successes against a __target number__. 
 
 ### Bonus Successes
-Tactical positioning or advanced equipment can ensure a successful action has an outsized effect. When an effect grants __bonus successes__, if the player rolls one or more successes on their dice they add their __bonus successes__ to the total from the dice. 
+Tactical positioning or advanced equipment can ensure a successful action has an outsized effect. When an effect grants __bonus successes__, if the player rolls at _least one success_ on their dice, they add any bonus successes to the successes they rolled. If no successes are rolled, bonus successes are not added.
+
+{{% alert theme="success" %}}Example: A player has 2 bonus successes and rolls 3D8 against a rating of 5+. They roll [3, 5, 8] which would normally be 2 successes. Because they have at least one success from their dice roll, they add their bonus successes for a total of 4 successes.{{% /alert %}}
 
 ## Measuring
 Players are free to measure at any point during play. When measuring distances, always measure the closest point to the closest point.
@@ -39,3 +41,4 @@ Commanders attempt to marshall support forces or reserve their command for unit 
 
 ## Activation phase
 Each player attempts to activate 
+
