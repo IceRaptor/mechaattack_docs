@@ -37,5 +37,18 @@ Each game of CAMS consists of a number of game turns, each of which is broken do
 ## Strategic Phase
 Commanders attempt to marshall support forces or reserve their command for unit effects.
 
+- Call artillery
+- Call airstrikes
+- Marshal reserves
+- Direct guidance
+- Claiming initiative
+
 ## Activation phase
-Each player attempts to activate 
+During this phase, players take turns nominating and activating squads one at a time until all squads have been activated.The player with initiative nominates one of their squads, and rolls the squads leadership rating to activate them. If the player gets at least one success the squad activates. In addition each success grants the squad one action During an activation each model isis moved, and each success grants the squad one action that may be spent during the activation. Each unit must be assigned at least one action, but any additional actions can be distributed as the player sees fit.
+
+Each model in the squad is activated one at a time. Each model chooses a stance, makes any movement it desires, and spends its actions at any point during that movement as it likes. 
+
+### Movement
+Combat is a dangerous affair, and generally units move at a cautious rate. When necessary they can move as quickly as possible, or stop and take careful aim. By default models are assumed to be in their __combat stance__, which balances movement, attack and defense. When speed is necessary models may choose to adopt a __top speed__ stance. model may be moved up to its __movement rating__ in inches. 
+
+## Cleanup phase
