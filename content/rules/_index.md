@@ -51,7 +51,14 @@ During this phase, players take turns nominating and activating squads one at a 
 Each model in the squad is activated one at a time. Each model chooses a stance, makes any movement it desires, and spends its actions at any point during that movement as it likes. 
 
 ### Movement
-Combat is a dangerous affair, and generally units move at a cautious rate. When necessary they can move as quickly as possible, or stop and take careful aim. By default models are assumed to be in their __combat stance__, which balances movement, attack and defense. When speed is necessary models may choose to adopt a __top speed__ stance. model may be moved up to its __movement rating__ in inches. 
+Combat is a dangerous affair, and generally units move at a cautious rate. When necessary they can move as quickly as possible, or stop and take careful aim. By default models are assumed to be in their __combat stance__, which balances movement, attack and defense. In combat stance the model moves up its __movement rating__ in inches. 
+
+When speed is necessary models may choose to adopt an __evasive__ stance. In this stance take their normal movement, and may make additional moves by spending one or more actions. For each action spent, the model may move up to it's __movement rating__ in inches and gains an __evasion__ token. Each evasion token grants +1 bonus success to any defensive test until the start of the unit's next activation. 
+
+Models in a defensible position may choose to adopt the __focused__ stance. In this stance the unit may not take their normal movement, but gains a __focused__ token. The model may spend one or more actions to add an additional focused token. For each focused token the model gains +1 bonus success to any non-defense test. 
+
+#### Difficult and Impassable Terrain
+Dense bogs, thick forests and jagged rocks can prove impassable to vehicles and infantry alike. When units want to move through this terrain they must slow down and carefully pick their way through. When a unit wants to move through terrain on its turn, it needs to 
 
 ## Cleanup phase
 
