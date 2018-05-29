@@ -20,6 +20,9 @@ Tactical positioning or advanced equipment can ensure a successful action has an
 
 {{% alert theme="success" %}}Example: A player has 2 bonus successes and rolls 3D8 against a rating of 5+. They roll [3, 5, 8] which would normally be 2 successes. Because they have at least one success from their dice roll, they add their bonus successes for a total of 4 successes.{{% /alert %}}
 
+### Critical Successes
+Any dice that rolls an 8 is a critical success (critical for short). Weapons and traits may provide additional benefits when a player rolls a critical success, but otherwise they are treated as a normal roll.
+
 ## Measuring
 Players are free to measure at any point during play. When measuring distances, always measure the closest point to the closest point.
 
@@ -58,7 +61,7 @@ When speed is necessary models may choose to adopt an __evasive__ stance. In thi
 Models in a defensible position may choose to adopt the __focused__ stance. In this stance the unit may not take their normal movement, but gains a __focused__ token. The model may spend one or more actions to add an additional focused token. For each focused token the model gains +1 bonus success to any non-defense test. 
 
 #### Difficult and Impassable Terrain
-Dense bogs, thick forests and jagged rocks can prove impassable to vehicles and infantry alike. When units want to move through this terrain they must slow down and carefully pick their way through. When a unit wants to move through terrain on its turn, it needs to 
+Dense bogs, thick forests and jagged rocks can prove impassable to vehicles and infantry alike. When units want to move through this terrain they must slow down and carefully pick their way through. When a unit wants to move through terrain on its turn, before making spending any movement it makes a piloting test. For each success on the test the model may move up to 1" through normal or difficult terrain.
 
 ## Cleanup phase
 
