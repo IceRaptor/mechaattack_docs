@@ -1,0 +1,65 @@
++++
+title = "Weapons"
+description = ""
+weight = 40
++++
+
+# Weapons
+Blah blah 
+
+## Weapons Traits
+
+Each weapon
+
+* Area of Effect (AE): The weapons does uniform damage across a large area. All models within the area of effect must defend against the attack. AE attacks may scatter.
+* Anti-Infantry (AE): The weapon is designed in inflict cripplings wounds against infantry.  
+* Burst: The weapon fires in a short burst that makes it difficult to dodge. Each critical reduces the defender's evasion result by one.
+* Close Quarters: This weapon has a very short range as its designed for close range combat. The weapon cannot fire past 12", but can be used an _assault_ without suffering any penalties.
+* Fast: Each critical success reduces 
+* Indirect X: The weapon can fire an arcing shot that bypasses intervening cover. The weapon ignores interventing cover for purposes of the attack (see the indirect attack section) but can only be fired indirectly at range X or greater. 
+* Kinetic Energy Penetrator (KE): The weapon inflicts damage through speed, not explosives. TODO
+* Melee: This weapon can only be used when models are close enough to touch. When used in an _assault_ ???
+* Salvo: The weapon fires a barrage of rounds that covers a wide area.  _Before rolling the attacker may choose to sacrifice one or more points from the weapons AE rating. For point sacrificed, the attack does +2 damage on a successful hit._
+* Spray: The weapon is fires a constant stream or at high speed and can be swung to cover multiple targets.
+* Swarm:
+
+
+## Weapons Chart
+
+Ballistic Weapons
+
+{.weapontable}
+| Weapon | AR | Traits |
+| ---------------------- | :---: | --------------------------------------- |
+Autocannon | 4D | Rapid-fire X: Add X bonus successes to an attack. May sacrifice 1 point of bonus to attack a different target.
+Rocket Launcher           | 3D | -
+Grenade Launcher          | 2D | AE: 2"
+Anti-Tank Cannon          | 3D | ---
+Artillery Cannon          | ?? |
+Railgun                   | 6D |
+Fragmentation Cannon      | 3D | Range: 12", Ammo: Fire, Frag (AI), Slug ()
+
+
+Energy Weapons
+
+| Weapon                    | Attack Rating | Traits |
+|--------------------------| :--: | ------------ |
+Pulse Laser Cannon        | 6D | Burst
+Beam Laser Cannon         | 6D | Spray
+Particle Cannon           | ?? | Haywire
+Plasma Cannon             | ?? | 
+Flamer                    | ?? |
+
+Missiles, Mortars and Rockets
+
+| Weapon                    | Attack Rating | Traits |
+|--------------------------| :--: | ------------ |
+Anti-Vehicle Missile      | 4D | AP
+Artillery Missile         | 3D | AE: X, Blast: X
+Missile                   | 4D | AE: X, Ammo: Blast X, Corrosive, Fire, Frag, Haywire
+Swarm Missile             | 4D | Swarm-X: Absorbs X hits of counter-fire.
+Rocket Pod                | 2D | AE: X, Salvo, Ammo: Corrosive, Fire, Frag
+Mortar                    | 4D | AE: X, Indirect: X, Ammo: Blast X, Corrosive, Fire, Frag, Haywire
+
+
+
